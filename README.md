@@ -15,9 +15,7 @@ daily tasks this small task need to be executed and executed well.
 
 - Classification in two categories.
 
-### 1. Mask and No Mask:
-
-### 2. Real and Fake Face:
+### Real and Fake Face:
 
 ![](images/real_fake.jpeg)
 
@@ -40,7 +38,7 @@ A few months ago deep fakes are in news for creating nuisance. So I thought of i
 
 - Classification into multiple Categories.
 
-### 1. Indian Dance Form Classification.
+### Indian Dance Form Classification.
 
 ![](images/dance.png)
 
@@ -50,7 +48,7 @@ This notebook is my attempt of the Hackerearth deep learning contest of identify
 
 - Official Details of the Contest:
 
-[Hackerearth Deep Learning Challenge Identify Dance Form]()
+[Hackerearth Deep Learning Challenge Identify Dance Form](https://www.hackerearth.com/challenges/competitive/hackerearth-deep-learning-challenge-identify-dance-form/)
 
 - ABOUT CHALLENGE
 
@@ -63,3 +61,6 @@ The dataset consists of 364 images belonging to 8 categories, namely **manipuri,
 *****************************************************
 
 **This Notebok will give you an enhanced view of transfer learning with multiple pretrained models for Multiclass Image Classification using Keras.**
+
+Checkout the Kernel [Indian-Dance-Classification](https://www.kaggle.com/aditya48/indian-dance-classification).
+
